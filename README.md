@@ -66,9 +66,9 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | Complete the course challenge <br>  Aug 6, 2020       |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       | Complete the course challenge <br>  Aug 7, 2020        |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Complete the course challenge <br>  Aug 7, 2020        |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
 
 ### Tier X - Programming Prep Prep
@@ -91,8 +91,8 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Welcome To Coding                                                                                                                                                     |  Complete<br>  Aug 10, 2020          |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |In progress   <br>  Aug 10, 2020           |             |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
